@@ -16,7 +16,7 @@ https://github.com/OkayStark/Weather-Dashboard-with-AI-emails.git
 cd weather-data-fetcher
 ```
 
-3.Open the .env file and assign the following values:
+3. Open the .env file and assign the following values:
 
 ```bash
 WEATHER_API_KEY: Your WeatherAPI key. You can get this key by signing up on the WeatherAPI website.
