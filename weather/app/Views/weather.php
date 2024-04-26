@@ -338,7 +338,7 @@
 
   <script>
     document.querySelector('.cta-button').addEventListener('click', function () {
-      window.location.href = 'https://github.com/OkayStark/Weather-Dashboard-with-AI-emails';
+      window.location.href = 'https://github.com/OkayStark/Weather-Data-Emailer-Web-Application';
     });
   </script>
 
