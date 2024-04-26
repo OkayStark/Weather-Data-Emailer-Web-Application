@@ -18,10 +18,12 @@ cd weather-data-fetcher
 
 3.Open the .env file and assign the following values:
 
+```bash
 WEATHER_API_KEY: Your WeatherAPI key. You can get this key by signing up on the WeatherAPI website.
 GEMINI_API_KEY: Your Gemini AI api key, You can get this key by signing into gemini api developers page.
 EMAIL_USERNAME: The username for the email account from which the weather reports will be sent.
 EMAIL_APP_KEY: The app key for the email account from which the weather reports will be sent.
+```
 
 4.Start the apache server and go to localhost/{project name}/public using any browser
 
