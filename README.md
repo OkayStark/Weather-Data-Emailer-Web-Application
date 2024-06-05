@@ -27,3 +27,7 @@ EMAIL_APP_KEY: The app key for the email account from which the weather reports 
 
 4.Start the apache server and go to localhost/{project name}/public using any browser
 
+## Usage
+
+https://github.com/OkayStark/Weather-Data-Emailer-Web-Application/assets/66514398/9c1df9a0-04f0-4b6e-a538-ad03092a8da1
+
